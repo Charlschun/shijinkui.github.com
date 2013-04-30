@@ -1,10 +1,22 @@
 ---
 layout: post
-category : lessons
+category : 工具相关  
 tagline: "Supporting tagline"
 tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
+
+
+##使用Jekyll-Bootstrap快速搭建##
+
+三分钟搞定：
+
+[猛戳这里](http://jekyllbootstrap.com)
+
+
+
+
+－－－－－－－－－－－－－－－－－－－－可以无视下面－－－－－－－－－－－－－－－－－－－－
 
 This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
