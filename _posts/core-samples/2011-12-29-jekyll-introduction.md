@@ -1,7 +1,7 @@
 ---
 layout: post
 category : 工具相关  
-tagline: "Supporting tagline"
+tagline: 
 tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
@@ -185,8 +185,8 @@ If you define more than one category you are defining a category hierarchy "set"
 Example:
 
     ---
-    title :  Hello World
-    categories : [lessons, beginner]
+    title : 使用Jekyll-Bootstrap快速搭建 
+    categories : [工具相关]
     ---
 
 This defines the category hierarchy "lessons/beginner". Note this is _one category_ node in Jekyll.
